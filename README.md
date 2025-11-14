@@ -12,6 +12,7 @@
 - [4. Analytical Results and Discussion](#4-analytical-results-and-discussion)
 - [5. Evaluation Metrics and Performance Analysis](#5-evaluation-metrics-and-performance-analysis)
 - [6. Limitations, Conclusions, and Future Extensions](#6-limitations-conclusions-and-future-extensions)
+- [7.Code](#Code)
 
 ---
 
@@ -209,6 +210,9 @@ To systematically evaluate the model, the following metrics were used:
 8. **Provide multiple question types** (MCQ, WH-questions, True/False)
 
 ---
+
+#Code
+[Coblab Code][1]
 
 # Author
 
