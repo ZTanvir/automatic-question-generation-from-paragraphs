@@ -44,7 +44,6 @@ The project uses **T5 (Text-to-Text Transfer Transformer)**, which treats every 
 - 12-layer encoder and 12-layer decoder (T5-base)
 - Multi-head self-attention mechanism
 - Shared input-output token embeddings
-- Teacher forcing during training
 - Trained using instruction-style prompt:
 
 ### Why T5?
