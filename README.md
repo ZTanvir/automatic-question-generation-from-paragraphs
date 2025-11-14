@@ -211,9 +211,9 @@ To systematically evaluate the model, the following metrics were used:
 
 ---
 
-#Code
+# Code
 
-[Coblab Code][1]
+[Colab](https://colab.research.google.com/drive/1yIxRlnjYqt2fh_XWPOxxBgCn6NBL-lQF?usp=sharing)
 
 # Author
 
