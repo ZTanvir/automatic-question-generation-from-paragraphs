@@ -53,7 +53,7 @@ The project uses **T5 (Text-to-Text Transfer Transformer)**, which treats every 
 - Easy to fine-tune
 - Works well with limited training data
 
-##Training Setup:
+## Training Setup:
 
 - Training dataset size: 200 custom QG samples
 
