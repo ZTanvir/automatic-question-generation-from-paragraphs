@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 
 - [1. Problem Definition and Motivation](#1-problem-definition-and-motivation)
 - [2. Model Architecture and Training Setup](#2-model-architecture-and-training-setup)
