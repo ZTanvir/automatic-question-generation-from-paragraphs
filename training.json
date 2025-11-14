@@ -1,0 +1,658 @@
+[
+  {
+    "input_text": "question: The Pacific Ocean is the largest and deepest ocean on Earth, covering more than 30 percent of the planet's surface. </s>",
+    "target_text": "What percentage of Earth's surface is covered by the Pacific Ocean?"
+  },
+  {
+    "input_text": "question: Photosynthesis allows plants to convert sunlight into chemical energy using chlorophyll found in their leaves. </s>",
+    "target_text": "What substance in plant leaves assists in photosynthesis?"
+  },
+  {
+    "input_text": "question: Mahatma Gandhi led India's independence movement using nonviolent civil disobedience and peaceful protests. </s>",
+    "target_text": "What method did Mahatma Gandhi use in India's independence movement?"
+  },
+  {
+    "input_text": "question: The Amazon rainforest produces a significant portion of the world's oxygen and is home to millions of species. </s>",
+    "target_text": "Why is the Amazon rainforest vital for Earth's oxygen supply?"
+  },
+  {
+    "input_text": "question: The Great Wall of China was built over many centuries to protect Chinese states from northern invaders. </s>",
+    "target_text": "Why was the Great Wall of China originally constructed?"
+  },
+  {
+    "input_text": "question: Lightning is a natural electrical discharge caused by the buildup of electrical charges in clouds during storms. </s>",
+    "target_text": "What causes lightning during storms?"
+  },
+  {
+    "input_text": "question: A computer virus is a malicious piece of software that spreads through email attachments and infected files. </s>",
+    "target_text": "How does a computer virus spread between computers?"
+  },
+  {
+    "input_text": "question: The Nile River flows through Egypt, Sudan, and several East African countries, making it one of the longest rivers in the world. </s>",
+    "target_text": "Which countries does the Nile River flow through?"
+  },
+  {
+    "input_text": "question: The Solar System includes the Sun and celestial bodies such as planets, moons, asteroids, and comets that orbit it. </s>",
+    "target_text": "What celestial objects make up the Solar System?"
+  },
+  {
+    "input_text": "question: Artificial Intelligence allows machines to mimic human intelligence in areas like speech recognition and decision-making. </s>",
+    "target_text": "What tasks can Artificial Intelligence perform?"
+  },
+
+  {
+    "input_text": "question: Mount Everest, located in the Himalayas, is the tallest mountain in the world, rising 8,848 meters above sea level. </s>",
+    "target_text": "Where is Mount Everest located?"
+  },
+  {
+    "input_text": "question: The Taj Mahal was commissioned by Emperor Shah Jahan in memory of his wife Mumtaz Mahal. </s>",
+    "target_text": "Who built the Taj Mahal and why?"
+  },
+  {
+    "input_text": "question: Bees play a crucial role in pollination, helping plants reproduce by transferring pollen from flower to flower. </s>",
+    "target_text": "How do bees help plants reproduce?"
+  },
+  {
+    "input_text": "question: Earth rotates on its axis once every 24 hours, resulting in the cycle of day and night. </s>",
+    "target_text": "What causes day and night on Earth?"
+  },
+  {
+    "input_text": "question: The Internet is a global network of interconnected computers that share information worldwide. </s>",
+    "target_text": "What is the Internet?"
+  },
+  {
+    "input_text": "question: The Statue of Liberty was a gift from France to the United States and symbolizes freedom and democracy. </s>",
+    "target_text": "What does the Statue of Liberty symbolize?"
+  },
+  {
+    "input_text": "question: Penguins are flightless birds that live mainly in the Southern Hemisphere, especially Antarctica. </s>",
+    "target_text": "Where do most penguins live?"
+  },
+  {
+    "input_text": "question: Isaac Newton formulated the laws of motion, defining the relationship between forces and movement. </s>",
+    "target_text": "Who created the laws of motion?"
+  },
+  {
+    "input_text": "question: The human heart pumps blood throughout the body using arteries and veins. </s>",
+    "target_text": "What is the main function of the human heart?"
+  },
+  {
+    "input_text": "question: Cocoa beans, harvested from cacao trees, are the primary ingredient used in producing chocolate. </s>",
+    "target_text": "What are cocoa beans used for?"
+  },
+
+  {
+    "input_text": "question: Birds migrate long distances to find better food sources and suitable breeding grounds during different seasons. </s>",
+    "target_text": "Why do birds migrate?"
+  },
+  {
+    "input_text": "question: The Eiffel Tower, completed in 1889, stands in Paris and is one of the most recognizable structures in the world. </s>",
+    "target_text": "Where is the Eiffel Tower located?"
+  },
+  {
+    "input_text": "question: The Sahara Desert is the largest hot desert in the world, known for its extremely dry climate and giant sand dunes. </s>",
+    "target_text": "What is the Sahara Desert known for?"
+  },
+  {
+    "input_text": "question: The ozone layer protects life on Earth by absorbing harmful ultraviolet radiation from the Sun. </s>",
+    "target_text": "What does the ozone layer protect us from?"
+  },
+  {
+    "input_text": "question: Dolphins are intelligent marine mammals that communicate using whistles, clicks, and body movements. </s>",
+    "target_text": "How do dolphins communicate?"
+  },
+  {
+    "input_text": "question: The Moon orbits Earth and reflects sunlight, making it visible in the night sky. </s>",
+    "target_text": "Why can we see the Moon at night?"
+  },
+  {
+    "input_text": "question: Rainbows appear when sunlight refracts through raindrops, splitting the light into multiple colors. </s>",
+    "target_text": "How are rainbows formed?"
+  },
+  {
+    "input_text": "question: Sound travels faster in water than in air because water molecules are packed more closely together. </s>",
+    "target_text": "Why does sound travel faster in water?"
+  },
+  {
+    "input_text": "question: The Wright brothers invented the first successful powered airplane in 1903. </s>",
+    "target_text": "Who invented the first powered airplane?"
+  },
+  {
+    "input_text": "question: Tadpoles gradually develop legs and lungs through metamorphosis to become adult frogs. </s>",
+    "target_text": "What do tadpoles grow into?"
+  },
+
+  {
+    "input_text": "question: Mars is known as the Red Planet due to the iron oxide present on its surface, which gives it a reddish color. </s>",
+    "target_text": "Why is Mars referred to as the Red Planet?"
+  },
+  {
+    "input_text": "question: Bacteria are microscopic organisms found in soil, water, and inside living organisms. </s>",
+    "target_text": "Where can bacteria be found?"
+  },
+  {
+    "input_text": "question: The human brain controls essential functions such as movement, memory, speech, and emotion. </s>",
+    "target_text": "What functions does the human brain control?"
+  },
+  {
+    "input_text": "question: Recycling reduces waste by converting used materials into new products, conserving natural resources. </s>",
+    "target_text": "How does recycling help the environment?"
+  },
+  {
+    "input_text": "question: Polar bears rely on sea ice to hunt seals, which are their primary source of food. </s>",
+    "target_text": "Why do polar bears need sea ice?"
+  },
+  {
+    "input_text": "question: Volcanoes are formed when molten rock beneath Earth's crust erupts onto the surface. </s>",
+    "target_text": "How are volcanoes formed?"
+  },
+  {
+    "input_text": "question: Electric cars run on rechargeable batteries instead of gasoline, reducing emissions and pollution. </s>",
+    "target_text": "What powers electric cars?"
+  },
+  {
+    "input_text": "question: Honeybees make honey by collecting nectar from flowers and storing it inside their hives. </s>",
+    "target_text": "How do honeybees produce honey?"
+  },
+  {
+    "input_text": "question: Sharks have existed for over 400 million years, making them one of the oldest species on Earth. </s>",
+    "target_text": "Why are sharks considered ancient animals?"
+  },
+  {
+    "input_text": "question: The human skeleton contains 206 bones that support movement and protect internal organs. </s>",
+    "target_text": "How many bones does the human skeleton have?"
+  },
+ {
+    "input_text": "question: Snakes shed their skin several times a year to allow for growth and to remove parasites. </s>",
+    "target_text": "Why do snakes shed their skin?"
+  },
+  {
+    "input_text": "question: The Amazon River carries more water than any other river in the world, flowing through Brazil, Peru, and Colombia. </s>",
+    "target_text": "Which countries does the Amazon River flow through?"
+  },
+  {
+    "input_text": "question: Solar panels convert sunlight into electricity using photovoltaic cells that absorb solar energy. </s>",
+    "target_text": "What do solar panels use to convert sunlight into electricity?"
+  },
+  {
+    "input_text": "question: The human stomach uses digestive acids and enzymes to break down food into simpler substances. </s>",
+    "target_text": "What does the stomach use to digest food?"
+  },
+  {
+    "input_text": "question: Birds have hollow bones that make them lightweight and help them fly more efficiently. </s>",
+    "target_text": "Why do birds have hollow bones?"
+  },
+  {
+    "input_text": "question: Abraham Lincoln served as the 16th President of the United States and led the nation through the Civil War. </s>",
+    "target_text": "Which number president was Abraham Lincoln?"
+  },
+  {
+    "input_text": "question: The bloodstream transports oxygen from the lungs to cells and carries carbon dioxide back to the lungs. </s>",
+    "target_text": "What does the bloodstream transport?"
+  },
+  {
+    "input_text": "question: Kangaroos use their powerful legs to hop long distances and escape predators quickly. </s>",
+    "target_text": "How do kangaroos move quickly to escape predators?"
+  },
+  {
+    "input_text": "question: Gold is a valuable metal known for its rarity, durability, and bright yellow appearance. </s>",
+    "target_text": "Why is gold considered valuable?"
+  },
+  {
+    "input_text": "question: The brainstem controls basic life functions such as breathing, heartbeat, and blood pressure. </s>",
+    "target_text": "What functions does the brainstem control?"
+  },
+
+  {
+    "input_text": "question: Rainforests receive large amounts of rainfall each year, supporting a wide variety of plant species. </s>",
+    "target_text": "Why do rainforests have such diverse plant life?"
+  },
+  {
+    "input_text": "question: The Milky Way is a barred spiral galaxy that contains billions of stars, including the Sun. </s>",
+    "target_text": "What type of galaxy is the Milky Way?"
+  },
+  {
+    "input_text": "question: Cheetahs are the fastest land animals, capable of reaching speeds up to 120 km/h while chasing prey. </s>",
+    "target_text": "What is the top speed of a cheetah?"
+  },
+  {
+    "input_text": "question: Clocks measure the passage of time in hours, minutes, and seconds. </s>",
+    "target_text": "What do clocks measure?"
+  },
+  {
+    "input_text": "question: Rainwater collects in lakes and rivers, providing fresh water for humans, animals, and plants. </s>",
+    "target_text": "What provides fresh water for humans and animals?"
+  },
+  {
+    "input_text": "question: A dictionary is a reference book that provides definitions, spellings, and pronunciations of words. </s>",
+    "target_text": "What information does a dictionary provide?"
+  },
+  {
+    "input_text": "question: Tigers have strong jaws and sharp teeth that help them capture and eat their prey. </s>",
+    "target_text": "How do tigers catch and eat their prey?"
+  },
+  {
+    "input_text": "question: The Sun's gravity holds the planets in their orbits, keeping the Solar System stable. </s>",
+    "target_text": "What keeps the planets in orbit around the Sun?"
+  },
+  {
+    "input_text": "question: Plants absorb water through their roots and transport it upward using their stem tissues. </s>",
+    "target_text": "How do plants absorb water?"
+  },
+  {
+    "input_text": "question: The atmosphere is a layer of gases surrounding Earth, protecting life by blocking harmful solar radiation. </s>",
+    "target_text": "What does Earth's atmosphere do?"
+  },
+
+  {
+    "input_text": "question: The Himalayas were formed when the Indian and Eurasian tectonic plates collided millions of years ago. </s>",
+    "target_text": "How were the Himalayas formed?"
+  },
+  {
+    "input_text": "question: The digestive tract includes the mouth, stomach, intestines, and other organs that help break down food. </s>",
+    "target_text": "Which organs are part of the digestive tract?"
+  },
+  {
+    "input_text": "question: Lightning can heat the surrounding air to temperatures hotter than the surface of the Sun. </s>",
+    "target_text": "How hot can lightning make the air around it?"
+  },
+  {
+    "input_text": "question: Octopuses have eight arms covered with suction cups that help them catch prey and move across surfaces. </s>",
+    "target_text": "How many arms does an octopus have?"
+  },
+  {
+    "input_text": "question: The equator divides Earth into the Northern and Southern Hemispheres. </s>",
+    "target_text": "What does the equator divide Earth into?"
+  },
+  {
+    "input_text": "question: Many fish breathe underwater by using gills to extract oxygen from the surrounding water. </s>",
+    "target_text": "How do fish breathe underwater?"
+  },
+  {
+    "input_text": "question: Hurricanes are powerful storms that form over warm ocean waters and bring strong winds and heavy rainfall. </s>",
+    "target_text": "Where do hurricanes form?"
+  },
+  {
+    "input_text": "question: Paper is made from wood pulp, which is processed and pressed into thin sheets. </s>",
+    "target_text": "What is paper made from?"
+  },
+  {
+    "input_text": "question: Trees produce oxygen during photosynthesis, helping to maintain the balance of gases in the atmosphere. </s>",
+    "target_text": "How do trees help maintain atmospheric balance?"
+  },
+  {
+    "input_text": "question: Wolves communicate using vocalizations such as howls, as well as body language and scent marking. </s>",
+    "target_text": "How do wolves communicate?"
+  },
+
+  {
+    "input_text": "question: Electricity flows through circuits made of conductive materials like copper wires. </s>",
+    "target_text": "What material is commonly used in electrical circuits?"
+  },
+  {
+    "input_text": "question: Humans need vitamins and minerals in small amounts to support various bodily functions and maintain good health. </s>",
+    "target_text": "Why do humans need vitamins and minerals?"
+  },
+  {
+    "input_text": "question: Zebras have black and white stripes that help confuse predators and regulate body temperature. </s>",
+    "target_text": "Why do zebras have stripes?"
+  },
+  {
+    "input_text": "question: The Antarctic continent is covered by thick ice sheets and is the coldest place on Earth. </s>",
+    "target_text": "Which continent is the coldest on Earth?"
+  },
+  {
+    "input_text": "question: Human teeth help break down food mechanically before it enters the digestive tract. </s>",
+    "target_text": "What role do teeth play in digestion?"
+  },
+  {
+    "input_text": "question: Plants need sunlight, water, and carbon dioxide to carry out photosynthesis. </s>",
+    "target_text": "What do plants need for photosynthesis?"
+  },
+  {
+    "input_text": "question: The brain's cerebrum is responsible for higher thinking, reasoning, and voluntary actions. </s>",
+    "target_text": "What functions does the cerebrum control?"
+  },
+  {
+    "input_text": "question: Owls are nocturnal birds with excellent night vision that helps them hunt in the dark. </s>",
+    "target_text": "Why are owls effective hunters at night?"
+  },
+  {
+    "input_text": "question: Earth has multiple layers, including the crust, mantle, outer core, and inner core. </s>",
+    "target_text": "What are the layers of Earth?"
+  },
+  {
+    "input_text": "question: Spiders spin silk webs to catch insects, which they use as their main source of food. </s>",
+    "target_text": "Why do spiders spin webs?"
+  },
+  {
+    "input_text": "question: Lions live in groups called prides, which consist of related females and their offspring. </s>",
+    "target_text": "What is a group of lions called?"
+  },
+  {
+    "input_text": "question: The northern lights are caused by charged particles from the Sun interacting with Earth's magnetic field. </s>",
+    "target_text": "What causes the northern lights?"
+  },
+  {
+    "input_text": "question: The kidneys filter waste products from the blood and produce urine. </s>",
+    "target_text": "What do the kidneys filter from the blood?"
+  },
+  {
+    "input_text": "question: Giraffes have long necks that help them reach leaves high in trees, giving them access to food other animals cannot reach. </s>",
+    "target_text": "Why do giraffes have long necks?"
+  },
+  {
+    "input_text": "question: The Great Lakes in North America contain around 20 percent of the world's surface fresh water. </s>",
+    "target_text": "What percentage of the world's surface fresh water is found in the Great Lakes?"
+  },
+  {
+    "input_text": "question: The Great Depression was a severe worldwide economic downturn that began in 1929. </s>",
+    "target_text": "When did the Great Depression begin?"
+  },
+  {
+    "input_text": "question: The piano is a musical instrument that produces sound when hammers strike strings inside the instrument. </s>",
+    "target_text": "How does a piano produce sound?"
+  },
+  {
+    "input_text": "question: Monarch butterflies migrate thousands of kilometers from North America to Mexico for the winter. </s>",
+    "target_text": "Where do monarch butterflies migrate for the winter?"
+  },
+  {
+    "input_text": "question: The bloodstream delivers nutrients absorbed from the digestive system to cells throughout the body. </s>",
+    "target_text": "What does the bloodstream deliver to body cells?"
+  },
+  {
+    "input_text": "question: Bamboo is one of the fastest-growing plants in the world and is used to build furniture, houses, and tools. </s>",
+    "target_text": "What are some uses of bamboo?"
+  },
+
+  {
+    "input_text": "question: The nervous system transmits signals between different parts of the body using neurons. </s>",
+    "target_text": "What carries signals in the nervous system?"
+  },
+  {
+    "input_text": "question: Snowflakes form when water vapor freezes into ice crystals in cold air. </s>",
+    "target_text": "How are snowflakes formed?"
+  },
+  {
+    "input_text": "question: Bananas are rich in potassium, which helps regulate muscle function and maintain proper hydration. </s>",
+    "target_text": "Which mineral found in bananas helps regulate muscle function?"
+  },
+  {
+    "input_text": "question: The human ear detects sound waves and helps maintain balance using the inner ear structures. </s>",
+    "target_text": "What does the human ear help maintain besides hearing?"
+  },
+  {
+    "input_text": "question: Solar eclipses occur when the Moon passes between the Sun and Earth, blocking sunlight temporarily. </s>",
+    "target_text": "What causes a solar eclipse?"
+  },
+  {
+    "input_text": "question: Plants release oxygen into the air as a byproduct of photosynthesis. </s>",
+    "target_text": "What gas do plants release during photosynthesis?"
+  },
+  {
+    "input_text": "question: The cheetah's slender body and long legs allow it to accelerate quickly when chasing prey. </s>",
+    "target_text": "What physical features allow cheetahs to accelerate quickly?"
+  },
+  {
+    "input_text": "question: Earthquakes can create tsunamis when large underwater disturbances displace ocean water. </s>",
+    "target_text": "What natural event can cause tsunamis?"
+  },
+  {
+    "input_text": "question: Dolphins breathe air using blowholes located at the top of their heads. </s>",
+    "target_text": "How do dolphins breathe?"
+  },
+  {
+    "input_text": "question: The Suez Canal connects the Mediterranean Sea to the Red Sea, allowing ships to travel more quickly between Europe and Asia. </s>",
+    "target_text": "Which two seas are connected by the Suez Canal?"
+  },
+
+  {
+    "input_text": "question: Rainforests are home to half of the world's plant and animal species despite covering only a small portion of Earth's land surface. </s>",
+    "target_text": "Why are rainforests considered biodiversity hotspots?"
+  },
+  {
+    "input_text": "question: Earth’s rotation causes ocean currents and winds, which distribute heat around the planet. </s>",
+    "target_text": "What effect does Earth's rotation have on ocean currents?"
+  },
+  {
+    "input_text": "question: The human skin regulates body temperature and protects internal organs from damage. </s>",
+    "target_text": "What does human skin do to regulate body temperature?"
+  },
+  {
+    "input_text": "question: Lemurs are primates found only on the island of Madagascar, where they live in diverse forest habitats. </s>",
+    "target_text": "Where are lemurs naturally found?"
+  },
+  {
+    "input_text": "question: Honey is naturally antibacterial, which helps prevent the growth of harmful microorganisms. </s>",
+    "target_text": "Why is honey considered antibacterial?"
+  },
+  {
+    "input_text": "question: Earth’s gravity keeps objects anchored to the surface and prevents the atmosphere from drifting into space. </s>",
+    "target_text": "What does Earth's gravity prevent from drifting into space?"
+  },
+  {
+    "input_text": "question: The Wright brothers’ first successful flight took place in Kitty Hawk, North Carolina. </s>",
+    "target_text": "Where did the Wright brothers complete their first flight?"
+  },
+  {
+    "input_text": "question: The Amazon rainforest plays a crucial role in regulating global climate patterns by absorbing carbon dioxide. </s>",
+    "target_text": "How does the Amazon rainforest help regulate global climate?"
+  },
+  {
+    "input_text": "question: Antibiotics are used to treat bacterial infections by killing or inhibiting the growth of bacteria. </s>",
+    "target_text": "What do antibiotics treat?"
+  },
+  {
+    "input_text": "question: The Silk Road was an ancient trade route connecting Asia, Africa, and Europe, facilitating cultural exchange. </s>",
+    "target_text": "What regions did the Silk Road connect?"
+  },
+
+  {
+    "input_text": "question: The Moon's gravitational pull creates high and low tides in Earth's oceans. </s>",
+    "target_text": "What creates the tides in Earth's oceans?"
+  },
+  {
+    "input_text": "question: Humans rely on carbohydrates for energy, which are found in foods like bread, rice, and fruits. </s>",
+    "target_text": "Which nutrient provides energy to humans?"
+  },
+  {
+    "input_text": "question: Scientists classify living organisms into groups such as kingdoms, phyla, and species. </s>",
+    "target_text": "How do scientists organize living organisms?"
+  },
+  {
+    "input_text": "question: The human nose detects smells using thousands of sensory receptors inside the nasal cavity. </s>",
+    "target_text": "What does the human nose use to detect smells?"
+  },
+  {
+    "input_text": "question: China has one of the world's oldest civilizations, known for innovations such as paper, gunpowder, and silk. </s>",
+    "target_text": "Which inventions is ancient China known for?"
+  },
+  {
+    "input_text": "question: The universe contains billions of galaxies, each made up of stars, planets, and cosmic dust. </s>",
+    "target_text": "What do galaxies contain?"
+  },
+  {
+    "input_text": "question: Fire needs oxygen, heat, and fuel to ignite, forming what is known as the fire triangle. </s>",
+    "target_text": "What three elements are needed for fire to ignite?"
+  },
+  {
+    "input_text": "question: The Earth's axis is tilted at 23.5 degrees, causing different seasons as the planet orbits the Sun. </s>",
+    "target_text": "What causes the seasons on Earth?"
+  },
+  {
+    "input_text": "question: Camouflage allows animals to blend into their surroundings to avoid predators or hunt prey. </s>",
+    "target_text": "Why do animals use camouflage?"
+  },
+  {
+    "input_text": "question: The Mariana Trench is the deepest part of the world's oceans, located in the western Pacific. </s>",
+    "target_text": "Where is the Mariana Trench located?"
+  },
+  {
+    "input_text": "question: Snakes shed their skin several times a year to allow for growth and to remove parasites. </s>",
+    "target_text": "Why do snakes shed their skin?"
+  },
+  {
+    "input_text": "question: The Amazon River carries more water than any other river in the world, flowing through Brazil, Peru, and Colombia. </s>",
+    "target_text": "Which countries does the Amazon River flow through?"
+  },
+  {
+    "input_text": "question: Solar panels convert sunlight into electricity using photovoltaic cells that absorb solar energy. </s>",
+    "target_text": "What do solar panels use to convert sunlight into electricity?"
+  },
+  {
+    "input_text": "question: The human stomach uses digestive acids and enzymes to break down food into simpler substances. </s>",
+    "target_text": "What does the stomach use to digest food?"
+  },
+  {
+    "input_text": "question: Birds have hollow bones that make them lightweight and help them fly more efficiently. </s>",
+    "target_text": "Why do birds have hollow bones?"
+  },
+  {
+    "input_text": "question: Abraham Lincoln served as the 16th President of the United States and led the nation through the Civil War. </s>",
+    "target_text": "Which number president was Abraham Lincoln?"
+  },
+  {
+    "input_text": "question: The bloodstream transports oxygen from the lungs to cells and carries carbon dioxide back to the lungs. </s>",
+    "target_text": "What does the bloodstream transport?"
+  },
+  {
+    "input_text": "question: Kangaroos use their powerful legs to hop long distances and escape predators quickly. </s>",
+    "target_text": "How do kangaroos move quickly to escape predators?"
+  },
+  {
+    "input_text": "question: Gold is a valuable metal known for its rarity, durability, and bright yellow appearance. </s>",
+    "target_text": "Why is gold considered valuable?"
+  },
+  {
+    "input_text": "question: The brainstem controls basic life functions such as breathing, heartbeat, and blood pressure. </s>",
+    "target_text": "What functions does the brainstem control?"
+  },
+
+  {
+    "input_text": "question: Rainforests receive large amounts of rainfall each year, supporting a wide variety of plant species. </s>",
+    "target_text": "Why do rainforests have such diverse plant life?"
+  },
+  {
+    "input_text": "question: The Milky Way is a barred spiral galaxy that contains billions of stars, including the Sun. </s>",
+    "target_text": "What type of galaxy is the Milky Way?"
+  },
+  {
+    "input_text": "question: Cheetahs are the fastest land animals, capable of reaching speeds up to 120 km/h while chasing prey. </s>",
+    "target_text": "What is the top speed of a cheetah?"
+  },
+  {
+    "input_text": "question: Clocks measure the passage of time in hours, minutes, and seconds. </s>",
+    "target_text": "What do clocks measure?"
+  },
+  {
+    "input_text": "question: Rainwater collects in lakes and rivers, providing fresh water for humans, animals, and plants. </s>",
+    "target_text": "What provides fresh water for humans and animals?"
+  },
+  {
+    "input_text": "question: A dictionary is a reference book that provides definitions, spellings, and pronunciations of words. </s>",
+    "target_text": "What information does a dictionary provide?"
+  },
+  {
+    "input_text": "question: Tigers have strong jaws and sharp teeth that help them capture and eat their prey. </s>",
+    "target_text": "How do tigers catch and eat their prey?"
+  },
+  {
+    "input_text": "question: The Sun's gravity holds the planets in their orbits, keeping the Solar System stable. </s>",
+    "target_text": "What keeps the planets in orbit around the Sun?"
+  },
+  {
+    "input_text": "question: Plants absorb water through their roots and transport it upward using their stem tissues. </s>",
+    "target_text": "How do plants absorb water?"
+  },
+  {
+    "input_text": "question: The atmosphere is a layer of gases surrounding Earth, protecting life by blocking harmful solar radiation. </s>",
+    "target_text": "What does Earth's atmosphere do?"
+  },
+
+  {
+    "input_text": "question: The Himalayas were formed when the Indian and Eurasian tectonic plates collided millions of years ago. </s>",
+    "target_text": "How were the Himalayas formed?"
+  },
+  {
+    "input_text": "question: The digestive tract includes the mouth, stomach, intestines, and other organs that help break down food. </s>",
+    "target_text": "Which organs are part of the digestive tract?"
+  },
+  {
+    "input_text": "question: Lightning can heat the surrounding air to temperatures hotter than the surface of the Sun. </s>",
+    "target_text": "How hot can lightning make the air around it?"
+  },
+  {
+    "input_text": "question: Octopuses have eight arms covered with suction cups that help them catch prey and move across surfaces. </s>",
+    "target_text": "How many arms does an octopus have?"
+  },
+  {
+    "input_text": "question: The equator divides Earth into the Northern and Southern Hemispheres. </s>",
+    "target_text": "What does the equator divide Earth into?"
+  },
+  {
+    "input_text": "question: Many fish breathe underwater by using gills to extract oxygen from the surrounding water. </s>",
+    "target_text": "How do fish breathe underwater?"
+  },
+  {
+    "input_text": "question: Hurricanes are powerful storms that form over warm ocean waters and bring strong winds and heavy rainfall. </s>",
+    "target_text": "Where do hurricanes form?"
+  },
+  {
+    "input_text": "question: Paper is made from wood pulp, which is processed and pressed into thin sheets. </s>",
+    "target_text": "What is paper made from?"
+  },
+  {
+    "input_text": "question: Trees produce oxygen during photosynthesis, helping to maintain the balance of gases in the atmosphere. </s>",
+    "target_text": "How do trees help maintain atmospheric balance?"
+  },
+  {
+    "input_text": "question: Wolves communicate using vocalizations such as howls, as well as body language and scent marking. </s>",
+    "target_text": "How do wolves communicate?"
+  },
+
+  {
+    "input_text": "question: Electricity flows through circuits made of conductive materials like copper wires. </s>",
+    "target_text": "What material is commonly used in electrical circuits?"
+  },
+  {
+    "input_text": "question: Humans need vitamins and minerals in small amounts to support various bodily functions and maintain good health. </s>",
+    "target_text": "Why do humans need vitamins and minerals?"
+  },
+  {
+    "input_text": "question: Zebras have black and white stripes that help confuse predators and regulate body temperature. </s>",
+    "target_text": "Why do zebras have stripes?"
+  },
+  {
+    "input_text": "question: The Antarctic continent is covered by thick ice sheets and is the coldest place on Earth. </s>",
+    "target_text": "Which continent is the coldest on Earth?"
+  },
+  {
+    "input_text": "question: Human teeth help break down food mechanically before it enters the digestive tract. </s>",
+    "target_text": "What role do teeth play in digestion?"
+  },
+  {
+    "input_text": "question: Plants need sunlight, water, and carbon dioxide to carry out photosynthesis. </s>",
+    "target_text": "What do plants need for photosynthesis?"
+  },
+  {
+    "input_text": "question: The brain's cerebrum is responsible for higher thinking, reasoning, and voluntary actions. </s>",
+    "target_text": "What functions does the cerebrum control?"
+  },
+  {
+    "input_text": "question: Owls are nocturnal birds with excellent night vision that helps them hunt in the dark. </s>",
+    "target_text": "Why are owls effective hunters at night?"
+  },
+  {
+    "input_text": "question: Earth has multiple layers, including the crust, mantle, outer core, and inner core. </s>",
+    "target_text": "What are the layers of Earth?"
+  },
+  {
+    "input_text": "question: Spiders spin silk webs to catch insects, which they use as their main source of food. </s>",
+    "target_text": "Why do spiders spin webs?"
+  }
+]
+
+
+
+
